@@ -35,7 +35,7 @@ div.modal button.modalcyanbtn:hover {
 
 div.box1 {
   height: 350px;
-  background-image: url(/images/image-hero-mobile.jpg);
+  background-image: url(images/image-hero-mobile.jpg);
   background-size: 100%;
 }
 
@@ -515,7 +515,7 @@ div#modalsuccess #gotit {
 
 @media screen and (min-width: 768px) {
   div.box1 {
-    background-image: url(/images/image-hero-desktop.jpg);
+    background-image: url(images/image-hero-desktop.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
   }
